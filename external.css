@@ -1,0 +1,24 @@
+{ 
+	background: #f0ece2; 
+}
+	
+ html{ 
+	background: #dfd3c3; 
+}
+
+{ 
+	background: #c7b198; 
+}
+
+.aboutme{ 
+	background: #596e79; 
+}
+
+#intro{text-align:center;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.change{background-color:white;}
